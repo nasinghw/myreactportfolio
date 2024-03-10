@@ -215,7 +215,7 @@ h2 {
 .hero--section--title--color {
   color: var(--primary);
 }
-.hero--section-description {
+.hero--section--description {
   color: var(--darkblue);
   font-size: 24px;
   font-weight: 400;

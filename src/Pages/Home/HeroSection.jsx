@@ -9,7 +9,7 @@ export default function HeroSection() {
             <br />
             Developer
           </h1>
-          <p className="hero--section-description">
+          <p className="hero--section--description">
           I am an enthusiastic and dedicated worker with strong communication skills with a high-level of commitment to
         achieve
         excellence.
