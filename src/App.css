@@ -380,7 +380,6 @@ h2 {
   stroke: #006b6a;
 }
 
-
 .contact--section {
   display: flex;
   padding: 150px 85px;
@@ -450,10 +449,8 @@ input[type="checkbox"] {
   border-radius: 0.15em;
   transform: translatey(-0.075em);
 }
-/* Contact End */
 
-/* Footer Start */
-/* Footer Starts */
+/* Footer  */
 .footer--container {
   display: flex;
   padding: 106.667px 85.333px;
@@ -691,5 +688,3 @@ input[type="checkbox"] {
     transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
   }
 }
-
-/* Responsive Screens Ends*/
