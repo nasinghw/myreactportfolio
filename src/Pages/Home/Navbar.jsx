@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
-// import myLogo from './Homescreen/logo.png'
 
 function Navbar() {
   const [navActive, setNavActive] = useState(false);
