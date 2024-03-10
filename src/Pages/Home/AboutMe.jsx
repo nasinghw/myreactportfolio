@@ -9,15 +9,21 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+          A self-motivated individual equipped with fresh, creative ideas and an eagerness to enhance my management
+        experience.
+        I am an enthusiastic and dedicated worker with strong communication skills with a high-level of commitment to
+        achieve
+        excellence. I have a keen interest in IT management. I am looking forward to work in an environment that allows
+        me to
+        apply and expand my knowledge and learn new skills in supporting and delivering information technology. I have
+        an
+        assertive and optimistic personality and am competent technically and analytically, with a diligent frame of
+        mind. I pay
+        extra attention to detail and am thorough in all aspects of my work. I am approachable and organized. I can work
+        independently and, in a team, always maintain good working relationships with colleagues.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            
           </p>
         </div>
       </div>
