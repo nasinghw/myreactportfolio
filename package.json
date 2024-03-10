@@ -2,7 +2,10 @@
   "name": "myreactportfolio",
   "private": true,
   "version": "0.0.0",
+  "engines": {
+    "node": ">=12.x"},
   "type": "module",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -38,4 +41,4 @@
     "last 1 firefox version",
     "last 1 safari version"
   ]
-}
+}}
