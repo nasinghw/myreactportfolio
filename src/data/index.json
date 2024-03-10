@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End-Web",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": " I have learnt the practical and technical skills that will enable me to build robust front-end web applications"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "HTML-CSS-Javascript",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": " I can apply fundamental knowledge of web development with HTML, CSS, and JavaScript"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Create visually-compelling page layouts using UX design principles"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "jQwery, Node.js and React",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I can manipulate web page information and create interactivity using jQuery and React"
     }
   ],
   "portfolio": [
