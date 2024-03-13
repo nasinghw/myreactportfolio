@@ -16,7 +16,7 @@ Currently, two official plugins are available:
 
 * This application consists of three main components:
 
-    * `Nero Section`
+    * `Hero Section`
      
     * `Navbar`
 
